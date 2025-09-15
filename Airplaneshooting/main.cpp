@@ -64,7 +64,23 @@ int main(){
     sf::Sprite bgSprite(bgTex);
     bgSprite.setScale(window.getSize().x / float(bgTex.getSize().x),
                       window.getSize().y / float(bgTex.getSize().y));
-                      
+           
+    sf::Texture Bgoption1;
+    if (!bgTex.loadFromFile("../assets/images/bg.png")) {
+        std::cerr << "Failed to load bg\n";
+        return -1;
+    }  
+    sf::Texture Bgoption2;
+    if (!bgTex.loadFromFile("../assets/images/bg.png")) {
+        std::cerr << "Failed to load bg\n";
+        return -1;
+    }  
+    sf::Texture Bgoption3;
+    if (!bgTex.loadFromFile("../assets/images/bg.png")) {
+        std::cerr << "Failed to load bg\n";
+        return -1;
+    }  
+
     sf::Texture enemyTexture;
         if (!enemyTexture.loadFromFile("../assets/images/enemy7.png")) {
             std::cerr << "Failed to load enemy image!\n"; return -1;
