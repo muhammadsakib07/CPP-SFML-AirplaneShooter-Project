@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"D:/PROJECT150/airplaneshooting/build/cmake_install.cmake"
+		"D:/PROJECT150/CPP-SFML-AirplaneShooter-Project/Airplaneshooting/build/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

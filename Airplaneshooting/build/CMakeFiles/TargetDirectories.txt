@@ -1,4 +1,3 @@
-D:/PROJECT150/airplaneshooting/build/CMakeFiles/AirplaneShooterSFML.dir
-D:/PROJECT150/airplaneshooting/build/CMakeFiles/AirplaneShooterGame.dir
-D:/PROJECT150/airplaneshooting/build/CMakeFiles/edit_cache.dir
-D:/PROJECT150/airplaneshooting/build/CMakeFiles/rebuild_cache.dir
+D:/PROJECT150/CPP-SFML-AirplaneShooter-Project/Airplaneshooting/build/CMakeFiles/AirplaneShooterSFML.dir
+D:/PROJECT150/CPP-SFML-AirplaneShooter-Project/Airplaneshooting/build/CMakeFiles/edit_cache.dir
+D:/PROJECT150/CPP-SFML-AirplaneShooter-Project/Airplaneshooting/build/CMakeFiles/rebuild_cache.dir
